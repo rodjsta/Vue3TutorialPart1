@@ -1,0 +1,9 @@
+{
+    "assignments": [
+        { "id": 1, "name": "Finish Project", "complete": false, "tag": "math" },
+        { "id": 2, "name": "Dome something new", "complete": false, "tag": "science" },
+        { "id": 3, "name": "eat chips", "complete": false, "tag": "reading" },
+        { "id": 4, "name": "Relax", "complete": false, "tag": "math" },
+        { "id": 5, "name": "Ride a bike", "complete": true, "tag": "math" }
+    ]
+}
