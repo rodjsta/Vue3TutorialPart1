@@ -5,5 +5,6 @@ Note: this is only the first part of the series.
 
 **Run the Project**
 
-* Check the scripts object in `package.json` and see two commands being run with `start`
-* CD into the repo and from terminal run `npm run start`
+* CD into the project directory
+* Run `npm install`
+* Run `npm run start` (See `scripts` object in `package.json` and see two commands being run with `start`)
